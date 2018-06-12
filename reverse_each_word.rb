@@ -2,7 +2,7 @@
 
 def reverse_each_word(sentence1)
   sentence1.split.each do |word|
-    reverse_word
+    word.reverse
     words << "#{sentence}"
   end
   words
