@@ -5,6 +5,7 @@ def reverse_each_word(sentence1)
   sentence1.each.reverse do |sentence|
     words << "#{sentence}"
   end
+  words
 
 end 
 
