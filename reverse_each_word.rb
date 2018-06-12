@@ -1,6 +1,6 @@
 sentence1 = ("olleH ereht dna woh era ?uoy")
 
-def reverse_each_word(sentence1)
+def "olleH ,ereht dna woh era ?uoy"
   example_array.each.reverse do |sentence|
     puts "#{sentence}"
   end
